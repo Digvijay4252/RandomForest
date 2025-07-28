@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: Student_Pass_Predictor
+    env: python
+    buildCommand: ""
+    startCommand: python app1.py
