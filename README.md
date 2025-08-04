@@ -48,12 +48,11 @@ Open in browser
 
 Visit: http://localhost:10000
 
-# Sample Input
-
-Congratulations! You've won a $1000 Walmart gift card. Click here to claim now.
-Prediction: 🚫 Spam
 
 ## Screenshots
+
+<img width="1626" height="911" alt="image" src="https://github.com/user-attachments/assets/d6e776de-740e-4363-ab2c-3805040e751a" />
+
 
 ## Future Improvements
 
