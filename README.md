@@ -15,9 +15,8 @@ RandomForest/
 ├── pass_map.pkl              # Label encoder for target classes
 ├── student_performance.csv   # Dataset used for model training
 ├── templates/
-│   └── index.html            # HTML interface for user input
-└── static/
-    └── style.css             # Optional CSS for styling
+    └── index.html            # HTML interface for user input
+
 
 ```
 
