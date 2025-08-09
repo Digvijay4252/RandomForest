@@ -1,6 +1,7 @@
 # Random Forest Classifier Web App
 
-A Flask-based web application that uses a trained Machine Learning model to identify whether a given email/message is **Spam** or **Not Spam**.This repository demonstrates the implementation of a Random Forest Classifier using Flask and scikit-learn. It allows users to input student performance data via a web form and predicts whether a student will pass or fail based on a trained Random Forest model.
+A Flask-based web application that uses a trained Machine Learning model to predict whether a student will pass or fail based on their performance data. This repository demonstrates the implementation of a Random Forest Classifier using Flask and scikit-learn.
+
 
 ---
 
